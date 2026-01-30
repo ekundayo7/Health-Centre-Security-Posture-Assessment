@@ -33,10 +33,11 @@ Staffs are regularly trained on data privacy and data handling practices however
 The healthcare centre has no access contol mechanism in place to restrict unauthorized access to patient data. Reliance on external hard disk backup without encryption poses a potential data loss risk.
 
 ## Risk Identification
-|Risk Type       | Description                                                                 | Impact on Organization                                        |
-|Security Risk   | Unauthorized access to patient medical records due to weak access control   |Reach of patient confidentiality, potential legal penalties    |
-|Compliance  Risk| Lack of compliance of internal policies with healthcare data protection regulations.| Potential Legal & financial penalties                  |
-|Operational Risk| Loss of criticaal data due to unsecured external hard disk backup           | Disruption of healthcare services, loss of critical pateient data|
+| Risk Type        | Description                                                                         | Impact on Organization                                            |
+|----------------- |-------------------------------------------------------------------------------------|-----------------------------------------------------------------  |
+| Security Risk    | Unauthorized access to patient medical records due to weak access control           |Reach of patient confidentiality, potential legal penalties        |
+| Compliance  Risk | Lack of compliance of internal policies with healthcare data protection regulations | Potential Legal & financial penalties                             |
+| Operational Risk | Loss of criticaal data due to unsecured external hard disk backup                   | Disruption of healthcare services, loss of critical pateient data |
 
 ## Reccommendation
 - Implement role based access control for patient records and enforce sstong passwords.
